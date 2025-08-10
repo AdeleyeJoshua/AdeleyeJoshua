@@ -1,9 +1,11 @@
-# Hello, I'm Joshua 👋
+![Joshua Adeleye Banner](banner.png)
 
+# Hello, I'm Joshua 👋
 <a href="https://linkedin.com/in/joshuaadeleye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 **Aspiring Cybersecurity Analyst** | Building Networking & Automation skills, one lab at a time.  
 Currently learning **CompTIA Network+**, developing Packet Tracer labs, and exploring **Python for automation** through the Google IT Automation with Python course.
+
 
 ---
 
