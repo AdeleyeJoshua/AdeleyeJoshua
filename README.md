@@ -1,55 +1,62 @@
-# Hello, I'm Joshua 👋
+# Hello, I'm Joshua
 
 <a href="https://linkedin.com/in/joshuaadeleye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-**Computer Science Student | Blue Team & Threat Detection** I am a final-year Computer Science student specializing in cybersecurity and data-driven threat analysis. With a background in data analysis and a strong focus on blue team operations, I build intelligent defense systems and analyze complex network anomalies. 
+
+**Computer Science Student | Aspiring Cybersecurity Analyst** I am a final-year Computer Science student specializing in cybersecurity and data analysis. With a practical background in data processing through my SIWES internship, I am currently focusing on building hands-on experience in blue team operations, log analysis, and network defense.
 
 ---
 
-## 🎯 Current Focus
-Transitioning extensive data processing experience into proactive threat hunting, incident response, and SIEM engineering.
+## Current Focus
+Applying my data analysis background to cybersecurity concepts, specifically focusing on SIEM configuration and log analysis.
 
 ---
 
-## 🚀 Featured Security & Data Projects
+## Featured Projects & Research
 
-### 🛡️ Azure Sentinel Cloud Honeypot & Threat Analysis
-* **Overview:** Architected a live honeypot environment in Microsoft Azure to attract and monitor malicious actors.
-* **Impact:** Captured, parsed, and analyzed over **69,000+ live cyberattacks** using Azure Sentinel (SIEM). 
-* **Skills:** Cloud Security, SIEM Configuration, Log Parsing, KQL (Kusto Query Language), Threat Hunting.
-* 👉 *[Link to Repository]* ### 🕵️‍♂️ Hybrid Anti-Money Laundering (AML) Detection System
-* **Overview:** Developing a robust fraud-detection engine as a final-year Computer Science project.
-* **Impact:** Bridging the gap between financial security and data science by utilizing a hybrid of rule-based logic and statistical methods to identify anomalous/malicious transactions.
-* **Skills:** Python, Statistical Modeling, Anomaly Detection, Security Architecture.
-* 👉 *[Link to Repository]* ---
+### Azure Sentinel Cloud Honeypot & Log Analysis
+* **Overview:** Deployed a honeypot environment in Microsoft Azure to monitor and log malicious actors.
+* **Impact:** Captured, parsed, and analyzed over 69,000 cyberattacks using Azure Sentinel.
+* **Skills Applied:** Cloud Security Basics, SIEM Configuration, Log Parsing, KQL (Kusto Query Language).
+* *[View the Azure Sentinel Honeypot Repository](https://github.com/AdeleyeJoshua/Cloud-Honeypot-SIEM-Lab)*
 
-## 🧠 Technical Arsenal
-
-### Cybersecurity & Defense
-<div>
-  <img src="https://img.shields.io/badge/-Azure_Sentinel-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SIEM_&_Log_Analysis-FF0000?&style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Threat_Hunting-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Data Analysis & Engineering
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
+### Active Research: Hybrid Anti-Money Laundering (AML) Detection
+* **Status:** In Progress (Final Year Computer Science Project)
+* **Overview:** Currently in the research and methodology phase (Chapters 1-3) of developing a system to detect anomalous financial transactions.
+* **Focus:** Utilizing a hybrid of rule-based logic and statistical models to bridge financial security and data analysis.
+* **Skills Applied:** Academic Research, Statistical Analysis Design, Rule-Based Logic.
 
 ---
 
-## 📈 Professional Experience
+## Technical Arsenal
+
+### Cybersecurity & Networking
+* **SIEM & Cloud Security:** Azure Sentinel, Microsoft Azure Cloud, Log Analytics, Elastic Stack (ELK) Exposure
+* **Network & Log Analysis:** Wireshark, Log Parsing (KQL), Cisco Packet Tracer
+* **Core Concepts:** OSI Model, Basic Network Configuration
+
+### Data Processing & Analysis
+* **Languages & Scripting:** Python, SQL
+* **Data Visualization:** Power BI, Excel
+* **Techniques:** Statistical Modeling Basics, Data Cleaning
+
+---
+
+## Certifications & Continuous Learning
+* **Google Cybersecurity Professional Certificate** — *(In Progress, 5 Courses Completed)*
+* **Elastic SIEM Fundamentals** — *(On-Demand Course Completion)*
+* **Data Analysis with SQL Track** — *(DataCamp)*
+
+---
+
+## Professional Experience
 
 **Data Analysis Intern (6-Month SIWES)**
-* Developed strong competencies in cleaning, processing, and interpreting large datasets—skills directly translating to efficient log analysis and incident investigation in modern SOC environments.
+* Leveraged Excel, SQL, Power BI, and Python to clean, process, and analyze datasets.
+* Built dynamic dashboards and queries to extract actionable insights from raw data.
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 - [LinkedIn](https://linkedin.com/in/joshuaadeleye)
-- [Email](mailto:your-email@example.com)
 
-⭐ **Defending networks through data.**
+Building skills in cybersecurity and data analysis.
